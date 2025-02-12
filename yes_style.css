@@ -4,7 +4,9 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: white; /*#f9e3e3*/
+    background-image: url(https://abrakadabra.fun/uploads/posts/2021-12/1639440368_1-abrakadabra-fun-p-fon-melkie-serdechki-1.jpg);
+    background-color: rgba(255,255,255,0.4);
+    background-blend-mode: lighten;
     font-family: 'Arial', sans-serif;
 }
 
