@@ -1,0 +1,56 @@
+body { 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
+    margin: 0; 
+    background-image: url(https://abrakadabra.fun/uploads/posts/2021-12/1639440368_1-abrakadabra-fun-p-fon-melkie-serdechki-1.jpg);
+    background-color: rgba(255,255,255,0.4);
+    background-blend-mode: lighten;
+    font-family: 'Arial', sans-serif; 
+    flex-direction: column; 
+  } 
+   
+  .container { 
+    text-align: center; 
+  } 
+   
+  h1 { 
+    font-size: 2.5em; 
+    color: #000000; 
+  } 
+   
+  .buttons { 
+    margin-top: 20px; 
+  } 
+   
+  .yes-button { 
+    font-size: 1.5em; 
+    padding: 10px 20px; 
+    margin-right: 10px; 
+    background-color: #4caf50; 
+    color: white; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+  } 
+   
+  .no-button { 
+    font-size: 1.5em; 
+    padding: 10px 20px; 
+    background-color: #f44336; 
+    color: white; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+  } 
+img {  
+  width: 400px; 
+} 
+ 
+  .gif_container img { 
+    max-width: 100%; 
+    height: auto; 
+    border-radius: 10px; 
+    margin-top: 20px; 
+  }
